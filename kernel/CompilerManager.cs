@@ -2,7 +2,7 @@
 using System.IO;
 using System.Text;
 
-namespace ExRScriptCppNativeRMK
+namespace ExRScriptCppNativeRMK.kernel
 {
     /// <summary>
     /// 编译器管理类

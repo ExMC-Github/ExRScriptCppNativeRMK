@@ -1,4 +1,5 @@
-﻿using System;
+﻿using ExRScriptCppNativeRMK.kernel;
+using System;
 using System.IO;
 
 namespace ExRScriptCppNativeRMK

@@ -1,4 +1,4 @@
-﻿namespace ExRScriptCppNativeRMK
+﻿namespace ExRScriptCppNativeRMK.kernel
 {
     /// <summary>
     /// 文本转换类

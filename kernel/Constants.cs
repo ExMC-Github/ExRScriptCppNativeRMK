@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ExRScriptCppNativeRMK
+namespace ExRScriptCppNativeRMK.kernel
 {
     /// <summary>
     /// 常量定义类

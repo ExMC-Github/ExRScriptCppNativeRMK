@@ -1,7 +1,7 @@
 ﻿using System;
 using System.IO;
 
-namespace ExRScriptCppNativeRMK
+namespace ExRScriptCppNativeRMK.kernel
 {
     /// <summary>
     /// 文件辅助类

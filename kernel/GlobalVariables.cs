@@ -1,6 +1,6 @@
 ﻿using Microsoft.VisualBasic;
 
-namespace ExRScriptCppNativeRMK
+namespace ExRScriptCppNativeRMK.kernel
 {
     /// <summary>
     /// 全局变量类

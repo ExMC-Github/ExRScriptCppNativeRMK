@@ -2,7 +2,7 @@
 using System.Globalization;
 using System.Windows.Forms;
 
-namespace ExRScriptCppNativeRMK
+namespace ExRScriptCppNativeRMK.kernel
 {
     /// <summary>
     /// 语言管理类
